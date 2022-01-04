@@ -1,0 +1,18 @@
+body{
+    background-color: #A52A2A;
+}
+.formulaire{
+    display: block;
+    margin-top: 10%;
+    border: solid 1px #FFFFFF;
+    padding: 50px 50px;
+    border-radius: 10px;
+    width: 20%;
+}
+.login:hover{
+    color:#95911B ;
+    margin-left: -5%;
+}
+.password:hover{
+    color: #95911B;
+}
